@@ -7,7 +7,7 @@
 ## Introduction
 A Conversational Voice Controlled React News Application using Alan AI. Alan AI is a revolutionary speech recognition software that allows you to add voice capabilities to your applications. It allows you to control absolutely everything in the app using your voice, created with Javacript Mastery
 
-[ check out the youtube channel](https://www.youtube.com/c/JavaScriptMastery/videos)
+[ check out the youtube channel](https://www.youtube.com/watch?v=rqw3OftE5sA&t=3086s)
 
 ## Setup:
 - run ```npm i && npm start``` to start development server
